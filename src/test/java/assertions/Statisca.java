@@ -13,6 +13,13 @@ import org.testng.annotations.Test;
 public class Statisca {
 	WebDriver driver;
 	
+	
+	//comment
+	//comment
+	//comment
+	
+	
+	
 	@BeforeClass
 	public void setup () {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\user\\Documents\\selenium dependencies\\drivers\\chromedriver.exe");
